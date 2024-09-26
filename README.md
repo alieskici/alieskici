@@ -1,7 +1,3 @@
-👋 Hi, I’m @alieskici
-👀 I’m interested in MACHINE LEARNING, WEB & DESKTOP APPS, WEB DEVELOPMENT, JAVASCRIPT APPS.
-🌱 I’m currently working on CREATING LOGIC SYSTEMS BY AI.
-💞️ I’m looking to collaborate on ANY OF THESE.
-📫 Reach me: alies76@gmail.com, WHATSAPP: +905379283490
+Reach me for web apps, desktop apps, web design, digital & financial consultancy.
 
-Skills: C#, PYTHON, HTML, CSS, JS, ASP.NET CORE 5+ MVC, ELECTRONIC LOGIC GATES & INTEGRATED CIRCUITS in advance.
+PS: AI is nothing more than face recognition and chess.
